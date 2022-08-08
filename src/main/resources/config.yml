@@ -1,0 +1,4 @@
+EnableWorlds:
+  - 'Lobby'
+  - 'world'
+  - 'world_the_end'

@@ -1,0 +1,6 @@
+name: NoBlockUpdate
+version: '${project.version}'
+main: cn.zry551.mcps.NoBlockUpdate.NoBlockUpdate
+api-version: 1.18
+authors: [ YLDK ]
+description: No Block Update Event.
